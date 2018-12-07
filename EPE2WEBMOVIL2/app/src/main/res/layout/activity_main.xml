@@ -21,7 +21,6 @@
         android:src="@drawable/movil"/>
 		
 		
-	
 
 </LinearLayout>
     <android.support.design.widget.TextInputLayout
