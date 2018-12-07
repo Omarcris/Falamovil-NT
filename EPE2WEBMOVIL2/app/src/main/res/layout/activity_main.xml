@@ -20,8 +20,6 @@
         android:layout_height="300dp"
         android:src="@drawable/movil"/>
     
-    
-    
 
 </LinearLayout>
     <android.support.design.widget.TextInputLayout
@@ -29,6 +27,7 @@
         android:layout_height="wrap_content"
         android:hint="Nombre">
 
+        
         
         
     <EditText
