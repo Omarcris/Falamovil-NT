@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31803972828",
+    "firebase_url": "https://epe2-web-movil2.firebaseio.com",
+    "project_id": "epe2-web-movil2",
+    "storage_bucket": "epe2-web-movil2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31803972828:android:e356980113beaf18",
+        "android_client_info": {
+          "package_name": "com.example.omar_.epe2webmovil2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31803972828-6m7ii4ntm84auviuk0chd4jvmu3h0k8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omar_.epe2webmovil2",
+            "certificate_hash": "961937186bb8b63e0e4bfdf04a7f888a14360687"
+          }
+        },
+        {
+          "client_id": "31803972828-9u31etfurof6m0q5klvh441h7dek5o68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZpMpfzCb6TODgSNXWZPU8s1le9Yklpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31803972828-9u31etfurof6m0q5klvh441h7dek5o68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

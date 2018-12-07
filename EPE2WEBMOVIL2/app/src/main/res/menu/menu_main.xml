@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item 
+        android:icon="@drawable/iconfala"
+        android:title="Bienvenido!"
+        app:showAsAction="always"
+
+        ></item>
+
+
+    <item android:id="@+id/icon_add"
+        android:icon="@drawable/ic_add"
+        android:title="Editado Realizado!"
+        app:showAsAction="always"
+
+        ></item>
+
+    <item android:id="@+id/icon_save"
+        android:icon="@drawable/ic_save"
+        android:title="Guardado Realizado!"
+        app:showAsAction="always"
+
+        ></item>
+
+    <item android:id="@+id/icon_delet"
+        android:icon="@drawable/ic_delet"
+        android:title="Eliminacion Completa!"
+        app:showAsAction="always"
+
+        ></item>
+
+
+</menu>
